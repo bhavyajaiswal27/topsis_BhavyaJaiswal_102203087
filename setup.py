@@ -8,7 +8,7 @@ setup(
     description='A Python package to perform TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/bhavyajaiswal27/topsis_BhavyaJaiswal_102203087',
     packages=find_packages(),
     py_modules=['topsis'],
     install_requires=[
